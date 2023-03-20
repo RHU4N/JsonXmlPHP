@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresas>
+  <empresa>
+    <cod>0</cod>
+    <nomeF>Empresa A Ltda.</nomeF>
+    <img>logo_a.jpg</img>
+    <cnpj>12.345.678/0001-90</cnpj>
+    <dtE>01/01/2023</dtE>
+    <valor>5000.00</valor>
+    <nome>João da Silva</nome>
+    <end>Rua dos Bobos, 123</end>
+    <cpf>123.456.789-00</cpf>
+    <fone>(11) 91234-5678</fone>
+  </empresa>
+
+  <empresa>
+  <cod>1</cod>
+    <nomeF>Empresa B S.A.</nomeF>
+    <img>logo_b.jpg</img>
+    <cnpj>98.765.432/0001-21</cnpj>
+    <dtE>01/02/2023</dtE>
+    <valor>4500.00</valor>
+    <nome>Maria Oliveira</nome>
+    <end>Rua dos Andradas, 456</end>
+    <cpf>987.654.321-00</cpf>
+    <fone>(11) 95678-1234</fone>
+  </empresa>
+
+  <empresa>
+    <cod>2</cod>
+    <nomeF>Empresa C Ltda.</nomeF>
+    <img>logo_c.jpg</img>
+    <cnpj>76.543.210/0001-43</cnpj>
+    <dtE>25/03/2023</dtE>
+    <valor>7000.00</valor>
+    <nome>Pedro Santos</nome>
+    <end>Rua dos Caiapós, 789</end>
+    <cpf>456.789.123-00</cpf>
+    <fone>(11) 92345-6789</fone>
+  </empresa>
+</empresas>
+
